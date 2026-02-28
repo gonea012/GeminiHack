@@ -1,7 +1,8 @@
-# 🎭 SEOULER — 서울 현지인으로 위장하라!
-
-> **You are not a tourist. You are a Seouler.**
-> 서울 사람인 척, 들키지 않고 끝까지 버텨라.
+<div align="center">
+  <img src="frontend/public/images/Gemini_Generated_Image_Logo.png" alt="SEOULER" width="380" />
+  <h3>서울 현지인으로 위장하라!</h3>
+  <p><em>You are not a tourist. You are a Seouler.</em></p>
+</div>
 
 ---
 
@@ -31,6 +32,16 @@ Gemini AI가 실시간으로 당신의 발음을 평가하고, NPC는 당신의 
 ## Game Scenarios
 
 외국인들이 실제로 방문하는 서울의 핫플레이스를 배경으로 설계했습니다.
+
+<div align="center">
+  <img src="frontend/public/images/Gemini_Generated_Image_EasyCard.png" alt="Easy" width="200" />
+  &nbsp;&nbsp;
+  <img src="frontend/public/images/Gemini_Generated_Image_MediumCard.png" alt="Medium" width="200" />
+  &nbsp;&nbsp;
+  <img src="frontend/public/images/Gemini_Generated_Image_HardCard.png" alt="Hard" width="200" />
+</div>
+
+<br/>
 
 | 난이도 | 배경 | 시나리오 |
 |--------|------|----------|
