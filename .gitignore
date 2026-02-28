@@ -1,0 +1,21 @@
+# Python
+gemini_env/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Misc
+TestMP3/
+youtube_to_mp3.py
+seouler-architecture.md
