@@ -105,4 +105,4 @@ SEOULER는 틀려도 괜찮은 게임의 형식 속에서,
 
 ---
 
-*Built at Google Gemini Hackathon 2025*
+*Built at Google Gemini Hackathon 2026*
